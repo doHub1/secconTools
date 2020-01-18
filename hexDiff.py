@@ -5,4 +5,4 @@ ans = ""
 for k, c in zip(K, C):
   if k!=c:
     ans += c
-print ans
+print (ans)
